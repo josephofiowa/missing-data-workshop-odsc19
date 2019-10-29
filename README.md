@@ -16,7 +16,12 @@
 - [IBM Walkthrough of Rubin's Rules](https://www.ibm.com/support/knowledgecenter/de/SSLVMB_22.0.0/com.ibm.spss.statistics.algorithms/alg_mi-pooling_rubin_combine.htm)
 - [R Code for Implementing Rubin's Rules](https://stefvanbuuren.name/mice/reference/pool.html)
 
-### Feel free to contact me afterward!
+### I'm social
+- [LinkedIn](https://www.linkedin.com/in/josephofiowa)
+- [Twitter](https://www.twitter.com/josephofiowa)
+- [Medium](https://www.medium.com/@josephofiowa)
+
+### Matt is too
 - [LinkedIn](https://www.linkedin.com/in/matthewbrems)
 - [Twitter](https://www.twitter.com/matthewbrems)
 - [Medium](https://www.medium.com/@matthew.w.brems)
