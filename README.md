@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephofiowa/missing-data-workshop-odsc19/master)
+
 # Good, Fast, Cheap: How to do Data Science with Missing Data
 
 ### Missing Data Resources
